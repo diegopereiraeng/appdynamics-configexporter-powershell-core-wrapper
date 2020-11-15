@@ -1,0 +1,1 @@
+# appdynamics-configexporter-powershell-core-wrapper

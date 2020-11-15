@@ -3,10 +3,8 @@ Using module './AppdynamicsConfig.psm1'
 $appdyConfig = [AppdynamicsConfig]::new("http://localhost:8080")
 
 #$appdyConfig.GetConfigControllers()
-
 #$appdyConfig.GetConfigControllerAppConfig | ConvertTo-Json -Depth 15
 #$appdyConfig.CopyConfigControllerAppConfig(94506170, 36 ,94506170, 49)
-
 
 $srcController = 1953890731
 $destController = 1953890731

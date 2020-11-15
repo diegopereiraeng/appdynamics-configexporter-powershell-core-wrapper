@@ -1,0 +1,11 @@
+2020-11-15 17:00:25 - ERROR - GetConfigControllers - StatusCode: 500, ReasonPhrase: 'Internal Server Error', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Date: Sun, 15 Nov 2020 20:00:20 GMT
+  X-Frame-Options: DENY
+  Server: Jetty(9.2.9.v20150224)
+  Content-Type: application/json; charset=UTF-8
+  Content-Length: 163
+}
+2020-11-15 17:00:25 - ERROR - GetConfigControllers - Response status code does not indicate success: 500 (Internal Server Error).
+2020-11-15 17:00:25 - ERROR - GetConfigControllers - Error getting controller apps : 500
+2020-11-15 17:00:25 - ERROR - GetConfigControllers - http://localhost:8080/api/controllers/2023422902/applications
